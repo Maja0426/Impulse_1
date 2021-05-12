@@ -1,0 +1,19 @@
+{
+  "name": "impulse_feladat",
+  "version": "1.0.0",
+  "description": "Impulse Kft. felveteli tesztfeladat_2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tamas Majoros",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.12.7"
+  }
+}
